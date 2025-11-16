@@ -31,18 +31,22 @@ POST /api/products
 
 Request Body (JSON):
 
+```json
 {
 "name": "Laptop",
 "price": 1200.50
 }
+```
 
 Response Body (JSON):
 
+```json
 {
 "id": 1,
 "name": "Laptop",
 "price": 1200.50
 }
+```
 
 
 ## 2. Get All Products
