@@ -56,7 +56,19 @@ GET /api/products
 Response Body (JSON):
 
 ```json
-[ { "id": 1, "name": "Laptop", "price": 1200.50 }, { "id": 2, "name": "Phone", "price": 800.00 } ]
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "price": 1200.50
+  },
+  {
+    "id": 2,
+    "name": "Phone",
+    "price": 800.00
+  }
+]
+
 ```
 
 
