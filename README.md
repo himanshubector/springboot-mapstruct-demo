@@ -18,7 +18,7 @@ A Spring Boot application demonstrating clean and efficient mapping between Enti
 
 ### Run Application
 ```bash
-Clone the repository: git clone <repo-url>
+Clone the repository: git clone https://github.com/himanshubector/springboot-mapstruct-demo.git
 Navigate into the project directory: cd springboot-mapstruct-demo
 Run the project using Maven: mvn spring-boot:run (for Mac/Linux)
 The application will start on http://localhost:8080
